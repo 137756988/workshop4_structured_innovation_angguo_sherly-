@@ -6,5 +6,5 @@
 ###            [2]https://zhuanlan.zhihu.com/p/619481346
 
 
-E-poster:
-![Image text](https://github.com/137756988/workshop4_structured_innovation_angguo_sheryl-/blob/main/Pictures/E-poster%20with%20Sherly.png)
+### E-poster:
+![E-poster 10b](https://github.com/137756988/workshop4_structured_innovation_angguo_sheryl-/assets/149594101/91219cfe-835b-45ea-a0a8-8d62fddcbd51)
