@@ -8,3 +8,4 @@
 
 
 E-poster:
+![Image text](https://github.com/137756988/workshop4_structured_innovation_angguo_sheryl-/blob/main/Pictures/E-poster%20with%20Sherly.png)
