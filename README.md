@@ -1,4 +1,4 @@
-### Title: Workshop4_structured_innovation
+### Title: Empowering Enterprises through Method Organization & Change and Creativity & Innovation in Networks
 ### Group: Group10b
 ### Team members: Guolei, Angguo
 ### Refernces：
