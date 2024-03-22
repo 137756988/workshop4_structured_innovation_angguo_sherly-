@@ -1,3 +1,3 @@
-### workshop4_structured_innovation
-### group:Group10a
-### team members:Sherly, Angguo
+### Title: workshop4_structured_innovation
+### Group: Group10a
+### Team members: Sherly, Angguo
